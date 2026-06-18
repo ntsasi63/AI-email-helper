@@ -4,9 +4,9 @@
 This app helps people write professional emails faster using AI. It also helps with typing assignments or work related tasks when typing is slow.
 
 ## Features
-- Generate professional emails with one prompt
-- Change tone to be formal, friendly and persuasive  
-- Help write assignments when typing is difficult
+1. Smart Email Generator - Create professional emails with formal/friendly/persuasive tone
+2. Meeting Notes Summarizer - Summarize long notes and extract action items + deadlines
+3. AI Task Planner - Generate daily schedules and prioritize tasks
 
 ## Tools used
 - Python
